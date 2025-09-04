@@ -31,6 +31,12 @@ Data Visualization
 
 -----
 
+## Dashbaord:
+![Netflix Dashboard](Dashboard/dashboard.png)
+
+-----
+
+
 ## Key Insights
 - The number of TV shows has grown rapidly compared to movies in recent years.
 
@@ -40,7 +46,7 @@ Data Visualization
 
 ----
 
-## 9. Tools & Technologies
+## Tools & Technologies
 
 | Category         | Tools                         |
 | ---------------- | ----------------------------- |
